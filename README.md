@@ -76,9 +76,3 @@ Update your connection string in the configuration file to match:
 
 ### 6. Profile
 ![Profile Window](https://github.com/user-attachments/assets/f3a55e75-bfab-4a7d-a838-50ebdbb9e2b0)
-
-## Notes
-
-This is a first-version educational project.  
-Some parts of the project (such as paths or manual configuration) may require adjustments before running.
-
