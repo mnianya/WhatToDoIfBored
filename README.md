@@ -9,8 +9,6 @@
 
 This application is an educational project and contains basic functionality for working with profiles, favorite activities, and their display.
 
----
-
 ## Main Features
 
 - User registration and login  
@@ -18,8 +16,6 @@ This application is an educational project and contains basic functionality for 
 - Storing user data in PostgreSQL  
 - Loading and displaying images from JSON and file system  
 - User profile with favorite activities  
-
----
 
 ## Important Information About File Paths
 
@@ -33,20 +29,13 @@ This applies to:
 You must **replace all absolute paths with your own**.  
 Without doing so, some features (such as loading images or profile data) will not work.
 
-This is an important limitation of the current version of the project.
-
----
-
 ## Database
 
 The project uses **PostgreSQL**.  
 You can find the database dump in `databases.sql`.
 
-> ⚠️ **Note:**  
+> **Note:**  
 > The dump contains **only the database structure**, without any data.  
-> Images and profile content must be added manually through the application.
-
----
 
 ## Project Setup
 
@@ -68,8 +57,6 @@ Update your connection string in the configuration file to match:
 - Password  
 - Port  
 
----
-
 ## Screenshots
 
 ### 1. Main Window
@@ -89,8 +76,6 @@ Update your connection string in the configuration file to match:
 
 ### 6. Profile
 ![Profile Window](https://github.com/user-attachments/assets/f3a55e75-bfab-4a7d-a838-50ebdbb9e2b0)
-
----
 
 ## Notes
 
